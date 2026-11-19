@@ -5,7 +5,7 @@ using namespace std;
 int main() {
     int number1 = 22;
     int number2 = 57;
-
+    
     if (number1 % 2 == 0) {
         cout << number1 << " is Even." << endl;
     }
